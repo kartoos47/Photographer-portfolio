@@ -10,4 +10,4 @@ A portfolio website for a photographer/photo editor
 
 Link:
 
-https://kartoos47.github.io/mountain-travel/
+https://kartoos47.github.io/Photographer-portfolio/
